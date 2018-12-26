@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1541908110 source:d:\cs\onedrive\algorithms and data structure\pat\a1124\main.cpp
+	<iostream>
+	<string>
+	<set>
+	<vector>
+

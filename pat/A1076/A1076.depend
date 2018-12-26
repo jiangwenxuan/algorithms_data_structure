@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537357081 source:d:\cs\algorithms and data structure\pat\a1076\main.cpp
+	<cstdio>
+	<queue>
+	<vector>
+

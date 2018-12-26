@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543366209 source:d:\cs\onedrive\algorithms and data structure\pat\a1146\main.cpp
+	<cstdio>
+	<algorithm>
+	<vector>
+

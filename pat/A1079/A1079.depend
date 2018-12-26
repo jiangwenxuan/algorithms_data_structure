@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536027845 source:d:\cs\pat\a1079\main.cpp
+	<cstdio>
+	<vector>
+	<queue>
+
