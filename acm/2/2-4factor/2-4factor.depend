@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554542377 source:d:\cs\algorithms and data structure\acm\2-4factor\main.cpp
+	<cstdio>
+	<time.h>
+

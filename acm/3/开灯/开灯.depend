@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554627657 source:/home/jwx/algorithms/acm/3/开灯/main.cpp
+	<cstdio>
+	<string.h>
+
