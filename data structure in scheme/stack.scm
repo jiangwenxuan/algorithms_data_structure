@@ -9,7 +9,7 @@
     (cond
       ((null? s) #f)
       ((not (pair? s)) #f)
-      (else (eq? 'stack (car s))))))
+      (else (equal? 'stack (car s))))))
 
 (define stack
   (lambda (s)
